@@ -1,4 +1,4 @@
-#N canvas 155 252 893 720 10;
+#N canvas 152 257 893 720 10;
 #X obj 124 184 tgl 15 0 empty empty empty 17 7 0 10 -221639 -1 -1 0
 1;
 #X obj 141 184 tgl 15 0 empty empty empty 17 7 0 10 -221639 -1 -1 0
@@ -32,7 +32,7 @@
 #X obj 380 184 tgl 15 0 empty empty empty 17 7 0 10 -134393 -1 -1 0
 1;
 #X obj 124 164 hradio 15 1 0 8 empty empty empty 0 -8 0 10 -262144
--1 -1 6;
+-1 -1 0;
 #X obj 124 102 unpack 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15;
 #X obj 110 621 outlet;
 #X obj 56 99 loadbang;
@@ -141,15 +141,15 @@
 #X restore 634 155 pd nl.symbol____;
 #X msg 124 372 \; \$17 0 \$1 \$2 \$3 \$4 \$5 \$6 \$7 \$8 \$9 \$10 \$11
 \$12 \$13 \$14 \$15 \$16;
-#N canvas 984 82 936 998 arrays 0;
+#N canvas 981 87 936 998 arrays 1;
 #N canvas 49 97 450 300 (subpatch) 0;
 #X array kick 16 float 3;
-#A 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0;
+#A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
 #X coords 0 1 16 -1 200 140 1;
 #X restore -733 57 graph;
 #N canvas 49 102 450 300 (subpatch) 0;
 #X array snare 16 float 3;
-#A 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0;
+#A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
 #X coords 0 1 16 -1 200 140 1;
 #X restore -523 58 graph;
 #N canvas 49 92 450 300 (subpatch) 0;
@@ -169,7 +169,7 @@
 #X restore -314 219 graph;
 #N canvas 49 102 450 300 (subpatch) 0;
 #X array close_hh 16 float 3;
-#A 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0;
+#A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
 #X coords 0 1 16 -1 200 140 1;
 #X restore -735 395 graph;
 #N canvas 49 97 450 300 (subpatch) 0;
