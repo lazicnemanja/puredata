@@ -1,0 +1,18 @@
+#N canvas 90 334 523 413 10;
+#X obj 110 58 inlet;
+#X obj 110 86 t b f;
+#X obj 110 147 /;
+#X msg 110 118 15000;
+#X obj 110 173 outlet;
+#X obj 210 135 outlet;
+#X text 211 157 measure frequency;
+#X obj 210 111 / 240;
+#X text 79 194 quarter note time;
+#X text 98 40 bpm input;
+#X connect 0 0 1 0;
+#X connect 0 0 7 0;
+#X connect 1 0 3 0;
+#X connect 1 1 2 1;
+#X connect 2 0 4 0;
+#X connect 3 0 2 0;
+#X connect 7 0 5 0;
