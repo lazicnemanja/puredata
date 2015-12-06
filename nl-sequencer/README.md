@@ -1,3 +1,4 @@
 #nl sequencer
 
-Is midi s
+Is midi sequencer based on 'Intellijel Metropolis' modular sequencer, 
+fully implemented in pure data.
