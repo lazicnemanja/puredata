@@ -1,0 +1,17 @@
+#N canvas 601 355 851 534 10;
+#X obj 111 72 nl.seqv2;
+#X obj 625 350 writesf~;
+#X obj 624 182 adc~;
+#X obj 686 198 env~;
+#X obj 747 202 vu 15 120 empty empty -1 -8 0 10 -66577 -1 1 0;
+#X msg 651 242 open seq.wav;
+#X msg 651 269 start;
+#X msg 651 296 stop;
+#X connect 2 0 3 0;
+#X connect 2 0 1 0;
+#X connect 2 1 3 0;
+#X connect 2 1 1 0;
+#X connect 3 0 4 0;
+#X connect 5 0 1 0;
+#X connect 6 0 1 0;
+#X connect 7 0 1 0;
