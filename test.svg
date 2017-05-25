@@ -1,0 +1,43 @@
+<svg version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" style="background-color:#5348f7">
+   <line stroke="#ac4d35" stroke-width="2" opacity="0.3" x1="41" y1="48" x2="-20" y2="31"></line>
+   <line stroke="#9b5" stroke-width="4" opacity="0.3" x1="110" y1="83" x2="65" y2="12"></line>
+   <line stroke="#406604" stroke-width="2" opacity="0.3" x1="-47" y1="111" x2="144" y2="110"></line>
+   <line stroke="#8e8" stroke-width="1" opacity="0.3" x1="-23" y1="36" x2="117" y2="13"></line>
+   <line stroke="#841" stroke-width="2" opacity="0.3" x1="20" y1="-19" x2="95" y2="-30"></line>
+   <line stroke="rgb(188,142,140)" stroke-width="5" opacity="0.3" x1="54" y1="36" x2="-48" y2="46"></line>
+   <line stroke="#69df46" stroke-width="3" opacity="0.3" x1="79" y1="7" x2="95" y2="18"></line>
+   <line stroke="#b3b201" stroke-width="1" opacity="0.3" x1="69" y1="149" x2="121" y2="-49"></line>
+   <line stroke="#676" stroke-width="1" opacity="0.3" x1="134" y1="-3" x2="29" y2="65"></line>
+   <line stroke="#ec7" stroke-width="3" opacity="0.3" x1="-10" y1="2" x2="-19" y2="0"></line>
+   <line stroke="rgb(70,2,137)" stroke-width="3" opacity="0.3" x1="41" y1="17" x2="63" y2="-19"></line>
+   <line stroke="#941daa" stroke-width="3" opacity="0.3" x1="-1" y1="66" x2="58" y2="148"></line>
+   <line stroke="rgb(27,63,148)" stroke-width="1" opacity="0.3" x1="-15" y1="84" x2="150" y2="25"></line>
+   <line stroke="#c17" stroke-width="4" opacity="0.3" x1="75" y1="-19" x2="89" y2="97"></line>
+   <line stroke="#6bd34a" stroke-width="2" opacity="0.3" x1="90" y1="39" x2="40" y2="55"></line>
+   <line stroke="#7ca5ec" stroke-width="5" opacity="0.3" x1="142" y1="-3" x2="-3" y2="127"></line>
+   <line stroke="#6c8" stroke-width="4" opacity="0.3" x1="38" y1="28" x2="40" y2="98"></line>
+   <line stroke="#84dc35" stroke-width="5" opacity="0.3" x1="-20" y1="8" x2="84" y2="6"></line>
+   <line stroke="#bfe" stroke-width="2" opacity="0.3" x1="-47" y1="-7" x2="128" y2="99"></line>
+   <line stroke="#467009" stroke-width="3" opacity="0.3" x1="-37" y1="139" x2="135" y2="29"></line>
+   <circle cx="-26" cy="78" r="6" opacity="0.3" fill="#0d2b2a"></circle>
+   <circle cx="5" cy="-9" r="1" opacity="0.3" fill="#0ab967"></circle>
+   <circle cx="-21" cy="23" r="5" opacity="0.3" fill="#18b3b4"></circle>
+   <circle cx="4" cy="39" r="10" opacity="0.3" fill="rgb(9,71,2)"></circle>
+   <circle cx="67" cy="115" r="13" opacity="0.3" fill="#9ec3e1"></circle>
+   <circle cx="69" cy="-48" r="13" opacity="0.3" fill="#3ea649"></circle>
+   <circle cx="50" cy="-45" r="12" opacity="0.3" fill="#ce8be6"></circle>
+   <circle cx="-3" cy="35" r="8" opacity="0.3" fill="#6d50be"></circle>
+   <circle cx="-39" cy="-2" r="7" opacity="0.3" fill="#890"></circle>
+   <circle cx="150" cy="80" r="6" opacity="0.3" fill="rgb(178,235,194)"></circle>
+   <polygon fill="rgb(89,209,0)" points="72,99 62,69 94,114" opacity="0.3"></polygon>
+   <polygon fill="#47a614" points="31,66 5,64 29,85" opacity="0.3"></polygon>
+   <polygon fill="rgb(244,213,63)" points="-23,52 -48,54 -33,34" opacity="0.3"></polygon>
+   <polygon fill="rgb(245,19,53)" points="76,80 63,55 78,89" opacity="0.3"></polygon>
+   <polygon fill="#f3c" points="-38,120 -55,130 -50,142" opacity="0.3"></polygon>
+   <polygon fill="rgb(66,25,38)" points="85,16 93,46 87,28" opacity="0.3"></polygon>
+   <polygon fill="#91a" points="125,-22 129,-31 140,-36" opacity="0.3"></polygon>
+   <polygon fill="#7b2" points="114,19 138,44 110,-5" opacity="0.3"></polygon>
+   <polygon fill="#cb0cf2" points="105,137 111,134 122,111" opacity="0.3"></polygon>
+   <polygon fill="rgb(102,204,2)" points="138,-25 136,-27 110,-26" opacity="0.3"></polygon>
+   <script>alert('xss')</script>
+</svg>
